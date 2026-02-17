@@ -5,6 +5,13 @@ import { motion, AnimatePresence } from 'framer-motion';
 // Default Background Assets
 const DEFAULT_BGS = {
   landing: [
+    '/src/assets/hero-bg-1.png',
+    '/src/assets/hero-bg-2.png',
+    '/src/assets/hero-bg-3.png',
+    '/src/assets/hero-bg-4.png',
+    '/src/assets/hero-bg-5.png',
+    '/src/assets/hero-bg-6.png',
+    '/src/assets/hero-bg-7.png',
     '/src/assets/hero-bg-8.png',
     '/src/assets/hero-bg-9.png',
     '/src/assets/hero-bg-10.png',
